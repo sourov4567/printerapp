@@ -15,7 +15,6 @@ public class PrinterApp {
             textToPrint.append(input).append("\n"); // Append input to text to print
         }
 
-        // Close the scanner
-        scanner.close();
+        
     }
 }
